@@ -7,6 +7,9 @@ Lala allows users to stream music from a vast collection of songs across differe
 ### Lala first draft
 ![Lala-draft1](https://github.com/CamB102/zing-box-react-project/assets/120146979/f8a66aad-09ee-4007-ad9d-7f8d62fe5286)
 
+### Lala - Search bar & Navigation
+![Screenshot 2023-08-01 at 11 29 15 am](https://github.com/CamB102/zing-box-react-project/assets/120146979/fa4dae5e-f4d7-4ca2-b223-c485fd214b8a)
+
 ### components: 
 Public
 SideBarLeft
@@ -23,7 +26,7 @@ useState, useEffect
 BrowserRouters, Routers, Route, Link
 
 ### Redux:
-store, action, reducer
+store, action, reducer,
 useSelector, useDispatch
 
 ### tailwind
